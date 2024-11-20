@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there! this is BulbLight's github repository 👋
 
-- 🔭 I’m currently working ...
+- 💻 Python programming ...
+- 🔌 Electronic engineering projects ...
 
 <!--
 **bulb-light/bulb-light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
