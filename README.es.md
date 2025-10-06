@@ -42,15 +42,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- You can use “github-readme-stats” here -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bulb-light&show_icons=true&theme=radical" alt="Your GitHub stats" />
-</p>
-
----
-
 ## 📝 Blog
 
 - ⏳ En proceso ...
@@ -64,6 +55,15 @@
 - Mentorías / asesoramientos
 
 - Disfruto de un buen libro, caminar y una dosis de café
+
+---
+
+## 📈 GitHub Stats
+
+<!-- You can use “github-readme-stats” here -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bulb-light&show_icons=true&theme=radical" alt="Your GitHub stats" />
+</p>
 
 ---
 
