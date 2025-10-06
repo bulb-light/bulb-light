@@ -45,15 +45,6 @@ Click the title to explore.
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- You can use “github-readme-stats” here -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bulb-light&show_icons=true&theme=radical" alt="Your GitHub stats" />
-</p>
-
----
-
 ## 📝 Blog / Writings
 
 - ⏳ Upcomming...
@@ -67,6 +58,15 @@ Click the title to explore.
 - Mentoring / teaching
 
 - I enjoy reading, going for walks, and having coffee
+
+---
+
+## 📈 GitHub Stats
+
+<!-- You can use “github-readme-stats” here -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bulb-light&show_icons=true&theme=radical" alt="Your GitHub stats" />
+</p>
 
 ---
 
