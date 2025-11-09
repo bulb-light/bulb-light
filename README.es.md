@@ -73,6 +73,7 @@
 |---|---|
 | Email | davidcs.ee.10@gmail.com |
 | LinkedIn | [david](https://www.linkedin.com/in/davidcsee/) |
+| Tiktok | [david_dff_bulblight](https://www.tiktok.com/@david_dff_bulblight)|
 
 ---
 
