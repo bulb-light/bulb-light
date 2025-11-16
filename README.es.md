@@ -44,8 +44,11 @@
 
 ---
 
-## 📝 Blog
+## 📝 Blog / Tutoriales
 
+- [Discrete PID controller approximation](https://github.com/bulb-light/ArduinoProjects_dff/blob/main/DiscreteTimePID.md)
+- [STM32 en VSCODE](https://youtube.com/playlist?list=PLBDyYA13fp41LdoVMGLIUoNY3WetsT-L-&si=WKzNnylpBHTQo-nj)
+- [Arduino y ESP32 en VSCODE](https://youtube.com/playlist?list=PLBDyYA13fp43iDQHjRhtriKRwh3nSMSt7&si=Qqkj07vAAFYU0ftQ)
 - ⏳ En proceso ...
 
 ---
