@@ -27,7 +27,8 @@
 ## 🔭 Currently Working On
 
 - [ELEMSYS](https://github.com/elemsys) — A team of professionals devoted to ✨ electronics ✨
-- [STM32 development](https://youtube.com/playlist?list=PLBDyYA13fp41LdoVMGLIUoNY3WetsT-L-&si=WKzNnylpBHTQo-nj) — Programming of STM32 Microcontrollers for control and FPGA applications
+- [STM32 development](https://youtube.com/playlist?list=PLBDyYA13fp41LdoVMGLIUoNY3WetsT-L-&si=WKzNnylpBHTQo-nj) — Programming STM32 microcontrollers for control systems and FPGA applications
+- [Arduino and ESP32 development](https://github.com/bulb-light/ArduinoProjects_dff) -  Programming Arduino and ESP32 boards for control systems and FPGA applications
 
 ---
 
@@ -40,6 +41,7 @@ Click the title to explore.
 |---|---|---|
 | [Modeling, Simulation, Design and Comparative Analysis of the PID and LQR Controllers for an Inverted Pendulum](https://ieeexplore.ieee.org/document/10833454) | A study on control techniques for a classical inverted pendulum system | MATLAB, Webots, latex |
 | [Inverted pendulum on Webots](https://github.com/elemsys/InvertedPendulumWebotsV1_0) | Simulation of the inverted pendulum system | Webots, C lang |
+| [Discrete PID controller implementation for temperature control](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/TemperatureControlLM35) | This project implements a digital PID controller for a thermal process using an Arduino Nano and an LM35 temperature sensor | C++, C, Arduino |
 
 > Stay tuned for upcoming projects
 
