@@ -27,7 +27,8 @@
 ## 🔭 Proyectos actuales
 
 - [ELEMSYS](https://github.com/elemsys) — Un equipo de profesionales dedicados a la ✨ electrónica ✨
-- [Desarrollo en STM32](https://youtube.com/playlist?list=PLBDyYA13fp41LdoVMGLIUoNY3WetsT-L-&si=WKzNnylpBHTQo-nj) — Programación del STM32 para aplicaciones de control y FPGAs
+- [Desarrollo en STM32](https://youtube.com/playlist?list=PLBDyYA13fp41LdoVMGLIUoNY3WetsT-L-&si=WKzNnylpBHTQo-nj) — Programación del STM32 para aplicaciones de control automático y FPGAs
+- [Desarrollo en Arduino y ESP32](https://github.com/bulb-light/ArduinoProjects_dff) -  Programación de tarjetas Arduino y ESP32 para aplicaciones de control automático y FPGAs
 
 ---
 
@@ -36,7 +37,8 @@
 | Proyecto | Descripción | Herramientas y tecnologías |
 |---|---|---|
 | [Modeling, Simulation, Design and Comparative Analysis of the PID and LQR Controllers for an Inverted Pendulum](https://ieeexplore.ieee.org/document/10833454) | Un estudio de técnicas de control para un sistema de péndulo invertido | MATLAB, Webots, latex |
-| [Inverted pendulum on Webots](https://github.com/elemsys/InvertedPendulumWebotsV1_0) | Simulación del péndulo invertido | Webots, C lang |
+| [Péndulo invertido en Webots](https://github.com/elemsys/InvertedPendulumWebotsV1_0) | Simulación del péndulo invertido | Webots, C lang |
+| [Controlador PID discreto para el control de temperatura](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/TemperatureControlLM35) | Este proyecto implementa un controlador PID digital para un proceso térmico utilizando un Arduino Nano y un sensor de temperatura LM35 | C++, C, Arduino |
 
 > Mantente actualizado para más proyectos
 
@@ -74,6 +76,7 @@
 | Email | davidcs.ee.10@gmail.com |
 | LinkedIn | [david](https://www.linkedin.com/in/davidcsee/) |
 | Tiktok | [david_dff_bulblight](https://www.tiktok.com/@david_dff_bulblight)|
+| YouTube| [david-dff](https://www.youtube.com/@david-dff-bulblight)|
 
 ---
 
