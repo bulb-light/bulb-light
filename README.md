@@ -4,11 +4,20 @@
 <h1 align="center"> Hi I'm <em>dff bulb-light</em> (David) </h1>
 <h3 align="center"> </h3>
 
-<p align="center">
-  <a href="https://github.com/bulb-light">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=bulb-light&style=flat-square&color=green" />
-  </a>
-</p>
+<div align="center"><p>
+    <a href="https://github.com/bulb-light">
+      <img alt="Profile views" src="https://komarev.com/ghpvc/?username=bulb-light&style=flat-square&color=green" />
+    </a>
+    <a href="https://github.com/bulb-light/bulb-light/stargazers">
+      <img alt="Stars" src="https://img.shields.io/github/stars/bulb-light/bulb-light?style=for-the-badge&logo=starship&color=c69ff5&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+    <a href="https://github.com/bulb-light/bulb-light">
+      <img alt="Repo Size" src="https://img.shields.io/github/repo-size/bulb-light/bulb-light?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+    <a href="https://www.youtube.com/@david-dff-bulblight">
+      <img alt="follow on Youtube" src="https://img.shields.io/twitter/follow/david-dff-bulblight?style=for-the-badge&logo=youtube&color=8aadf3&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+</div>
 
 ---
 
@@ -41,7 +50,9 @@ Click the title to explore.
 |---|---|---|
 | [Modeling, Simulation, Design and Comparative Analysis of the PID and LQR Controllers for an Inverted Pendulum](https://ieeexplore.ieee.org/document/10833454) | A study on control techniques for a classical inverted pendulum system | MATLAB, Webots, latex |
 | [Inverted pendulum on Webots](https://github.com/elemsys/InvertedPendulumWebotsV1_0) | Simulation of the inverted pendulum system | Webots, C lang |
-| [Discrete PID controller implementation for temperature control](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/TemperatureControlLM35) | This project implements a digital PID controller for a thermal process using an Arduino Nano and an LM35 temperature sensor | C++, C, Arduino |
+| [Arduino and ESP32 projects](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/TemperatureControlLM35) | A collection of projects for Arduino and ESP32 boards | C++, C, Arduino |
+| [Discrete PID controller implementation for temperature control](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/TemperatureControlLM35) | This project implements a digital PID controller for a thermal process using an Arduino Nano and an LM35 temperature sensor | C++, C, Arduino, PID |
+| [DCMotorSpeedCurrentReading](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/DCMotorSpeedCurrentReading) | Speed estimation and current measurement of a DC motor | Speed Estimator, Digital Filters, Current INA219 sensor, C++, Arduino, |
 
 > Stay tuned for upcoming projects
 
@@ -52,6 +63,8 @@ Click the title to explore.
 - [Discrete PID controller approximation](https://github.com/bulb-light/PID_lib_dff/blob/main/DiscreteTimePID.md)
 - [STM32 development](https://youtube.com/playlist?list=PLBDyYA13fp41LdoVMGLIUoNY3WetsT-L-&si=WKzNnylpBHTQo-nj)
 - [Arduino and ESP32 in VSCODE](https://youtube.com/playlist?list=PLBDyYA13fp43iDQHjRhtriKRwh3nSMSt7&si=Qqkj07vAAFYU0ftQ)
+- [Digital filters](https://github.com/bulb-light/DigitalFilter_dff)
+- [Speed estimation of a DC motor](https://github.com/bulb-light/SpeedEstimator_dff)
 - ⏳ Upcomming...
 
 ---
