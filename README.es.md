@@ -49,7 +49,8 @@
 | [Péndulo invertido en Webots](https://github.com/elemsys/InvertedPendulumWebotsV1_0) | Simulación del péndulo invertido | Webots, C lang |
 | [Proyectos de Arduino y ESP32](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/TemperatureControlLM35) | Una colección de proyectos para placas Arduino y ESP32 | C++, C, Arduino |
 | [Controlador PID discreto para el control de temperatura](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/TemperatureControlLM35) | Este proyecto implementa un controlador PID digital para un proceso térmico utilizando un Arduino Nano y un sensor de temperatura LM35 | C++, C, Arduino |
-| [DCMotorSpeedCurrentReading](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/DCMotorSpeedCurrentReading) | Estimación de velocidad y lectura de corriente de un motor DC | Speed Estimator, Digital Filters, Current INA219 sensor, C++, Arduino, |
+| [DCMotorSpeedCurrentReading](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/DCMotorSpeedCurrentReading) | Estimación de velocidad y lectura de corriente de un motor DC | Speed Estimator, Digital Filters, Current INA219 sensor, C++, Arduino |
+| [SpeedDCMotorControl](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/SpeedDCMotorControl) | Control PI de velocidad de un motor DC | Speed Estimator, Digital Filters, PI controller, Arduino, C++ |
 
 > Mantente actualizado para más proyectos
 
