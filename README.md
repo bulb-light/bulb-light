@@ -54,6 +54,7 @@ Click the title to explore.
 | [Discrete PID controller implementation for temperature control](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/TemperatureControlLM35) | This project implements a digital PID controller for a thermal process using an Arduino Nano and an LM35 temperature sensor | C++, C, Arduino, PID |
 | [DCMotorSpeedCurrentReading](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/DCMotorSpeedCurrentReading) | Speed estimation and current measurement of a DC motor | Speed Estimator, Digital Filters, Current INA219 sensor, C++, Arduino |
 | [DCMotorSpeedControlPI](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/DCMotorSpeedControlPI) | PI speed control for a DC motor | Speed Estimator, Digital Filters, PI controller, Arduino, C++ |
+| [DCMotorCascadedSpeedControlPI](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/DCMotorCascadedSpeedControlPI) | Cascaded PI speed control for a DC motor: PI control in the outer loop and PI current in the inner loop | Speed Estimator, Digital Filters, PI controller, Current INA219 sensor, Arduino, C++|
 
 > Stay tuned for upcoming projects
 
