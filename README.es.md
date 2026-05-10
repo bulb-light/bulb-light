@@ -1,7 +1,7 @@
 [🇬🇧 English](README.md) | [🇵🇪 Español](README.es.md)
 
 <!-- Header / Introduction -->
-<h1 align="center"> Hola soy <em>dff bulb-light</em> (David) </h1>
+<h1 align="center"> Hola soy <em>bulb-light</em> (David) </h1>
 <h3 align="center"> </h3>
 
 <div align="center"><p>
