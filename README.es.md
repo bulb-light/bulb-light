@@ -36,7 +36,7 @@
 ## 🔭 Proyectos actuales
 
 - [ELEMSYS](https://github.com/elemsys) — Un equipo de profesionales dedicados a la ✨ electrónica ✨
-- [Desarrollo en STM32](https://youtube.com/playlist?list=PLBDyYA13fp41LdoVMGLIUoNY3WetsT-L-&si=WKzNnylpBHTQo-nj) — Programación del STM32 para aplicaciones de control automático y FPGAs
+- [Desarrollo en STM32](https://github.com/bulb-light/STM32L4BareMetal_dff) — Programación del STM32 para aplicaciones de control automático y FPGAs
 - [Desarrollo en Arduino y ESP32](https://github.com/bulb-light/ArduinoProjects_dff) -  Programación de tarjetas Arduino y ESP32 para aplicaciones de control automático y FPGAs
 
 ---
@@ -51,6 +51,7 @@
 | [Controlador PID discreto para el control de temperatura](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/TemperatureControlLM35) | Este proyecto implementa un controlador PID digital para un proceso térmico utilizando un Arduino Nano y un sensor de temperatura LM35 | C++, C, Arduino |
 | [DCMotorSpeedCurrentReading](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/DCMotorSpeedCurrentReading) | Estimación de velocidad y lectura de corriente de un motor DC | Speed Estimator, Digital Filters, Current INA219 sensor, C++, Arduino |
 | [DCMotorSpeedControlPI](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/DCMotorSpeedControlPI) | Control PI de velocidad de un motor DC | Speed Estimator, Digital Filters, PI controller, Arduino, C++ |
+| [STM32L4BareMetal](https://github.com/bulb-light/STM32L4BareMetal_dff) | Una colección de proyectos bare-metal para el microcontrolador STM32L412KB en la placa de desarrollo Nucleo L412KB development| STM32, ARM Cortex architecture, C, C++, vscode, cmake |
 
 > Mantente actualizado para más proyectos
 
@@ -59,7 +60,8 @@
 ## 📝 Blog / Tutoriales
 
 - [Aproximación discreta del controlador PID](https://github.com/bulb-light/PID_lib_dff/blob/main/DiscreteTimePID.md)
-- [STM32 en VSCODE](https://youtube.com/playlist?list=PLBDyYA13fp41LdoVMGLIUoNY3WetsT-L-&si=WKzNnylpBHTQo-nj)
+- [STM32 en VSCODE (video)](https://youtu.be/N5lHE_RXR0k?list=PL5vtwAZ597F2wNLzj6R5JeFRNKUcCsLp1)
+- [STM32L4xx Bare-Metal Development Setup in VS Code](https://github.com/bulb-light/STM32L4BareMetal_dff/blob/main/VSCodeSTM32L4Setup.md)
 - [Arduino y ESP32 en VSCODE](https://youtube.com/playlist?list=PLBDyYA13fp43iDQHjRhtriKRwh3nSMSt7&si=Qqkj07vAAFYU0ftQ)
 - [Filtros digitales](https://github.com/bulb-light/DigitalFilter_dff)
 - [Estimador de velocidad de un motor DC](https://github.com/bulb-light/SpeedEstimator_dff)

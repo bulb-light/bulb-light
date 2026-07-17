@@ -36,7 +36,7 @@
 ## 🔭 Currently Working On
 
 - [ELEMSYS](https://github.com/elemsys) — A team of professionals devoted to ✨ electronics ✨
-- [STM32 development](https://youtube.com/playlist?list=PLBDyYA13fp41LdoVMGLIUoNY3WetsT-L-&si=WKzNnylpBHTQo-nj) — Programming STM32 microcontrollers for control systems and FPGA applications
+- [STM32 development](https://github.com/bulb-light/STM32L4BareMetal_dff) — Programming STM32 microcontrollers for control systems and FPGA applications
 - [Arduino and ESP32 development](https://github.com/bulb-light/ArduinoProjects_dff) -  Programming Arduino and ESP32 boards for control systems and FPGA applications
 
 ---
@@ -54,7 +54,7 @@ Click the title to explore.
 | [Discrete PID controller implementation for temperature control](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/TemperatureControlLM35) | This project implements a digital PID controller for a thermal process using an Arduino Nano and an LM35 temperature sensor | C++, C, Arduino, PID |
 | [DCMotorSpeedCurrentReading](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/DCMotorSpeedCurrentReading) | Speed estimation and current measurement of a DC motor | Speed Estimator, Digital Filters, Current INA219 sensor, C++, Arduino |
 | [DCMotorSpeedControlPI](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/DCMotorSpeedControlPI) | PI speed control for a DC motor | Speed Estimator, Digital Filters, PI controller, Arduino, C++ |
-| [DCMotorCascadedSpeedControlPI](https://github.com/bulb-light/ArduinoProjects_dff/tree/main/DCMotorCascadedSpeedControlPI) | Cascaded PI speed control for a DC motor: PI control in the outer loop and PI current in the inner loop | Speed Estimator, Digital Filters, PI controller, Current INA219 sensor, Arduino, C++|
+| [STM32L4BareMetal](https://github.com/bulb-light/STM32L4BareMetal_dff) | A collection of bare-metal projects for the STM32L412KB microcontroller on the Nucleo L412KB development board | STM32, ARM Cortex architecture, C, C++, vscode, cmake |
 
 > Stay tuned for upcoming projects
 
@@ -63,7 +63,8 @@ Click the title to explore.
 ## 📝 Blog / Writings / Tutorials
 
 - [Discrete PID controller approximation](https://github.com/bulb-light/PID_lib_dff/blob/main/DiscreteTimePID.md)
-- [STM32 development](https://youtube.com/playlist?list=PLBDyYA13fp41LdoVMGLIUoNY3WetsT-L-&si=WKzNnylpBHTQo-nj)
+- [STM32 development in VSCODE (video)](https://youtu.be/N5lHE_RXR0k?list=PL5vtwAZ597F2wNLzj6R5JeFRNKUcCsLp1)
+- [STM32L4xx Bare-Metal Development Setup in VS Code](https://github.com/bulb-light/STM32L4BareMetal_dff/blob/main/VSCodeSTM32L4Setup.md)
 - [Arduino and ESP32 in VSCODE](https://youtube.com/playlist?list=PLBDyYA13fp43iDQHjRhtriKRwh3nSMSt7&si=Qqkj07vAAFYU0ftQ)
 - [Digital filters](https://github.com/bulb-light/DigitalFilter_dff)
 - [Speed estimation of a DC motor](https://github.com/bulb-light/SpeedEstimator_dff)
