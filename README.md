@@ -4,10 +4,12 @@
 <h1 align="center"> Hi I'm <em>bulb-light</em> (David) </h1>
 <h3 align="center"> </h3>
 
-<div align="center"><p>
+<div align="center">
     <a href="https://github.com/bulb-light">
       <img alt="Profile views" src="https://komarev.com/ghpvc/?username=bulb-light&style=flat-square&color=green" />
     </a>
+</div>
+<div align="center">
     <a href="https://github.com/bulb-light/bulb-light/stargazers">
       <img alt="Stars" src="https://img.shields.io/github/stars/bulb-light/bulb-light?style=for-the-badge&logo=starship&color=c69ff5&logoColor=D9E0EE&labelColor=302D41" />
     </a>
